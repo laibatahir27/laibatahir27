@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a passionate Computer Science student at Quaid-e-Azam 
 ## 🛠 Technical Skills
 
 **Programming Languages:**  
-C++, Python, HTML, CSS, SQL
+C++, Python, HTML, CSS, JS, C#, SQL
 
 **Core Concepts:**  
 Object-Oriented Programming (OOP), Data Structures, File Handling, Database Design, APIs (Basics)
